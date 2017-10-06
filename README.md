@@ -27,7 +27,7 @@ For the sake of the example here is how you can use this project template
 as a basis for your own repository:
 
 ```bash
-git clone https://github.com/mnapoli/project-template.git my-project
+git clone https://github.com/vanoix/repository-template.git my-project
 cd my-project
 # Remove the git repository metadata
 rm -rf .git/
@@ -58,6 +58,11 @@ For *this* project, I choose […drumroll…] the [Do What the Fuck You Want to 
 ## Support
 
 See the [SUPPORT](SUPPORT.md) file. (Don't forget to change default email/slack/...)
+
+## Templates
+
+You should review templates for issue/(pull|merge) requests for github and gitlab. Feel free to
+update them and, if you work with gitlab, add others templates.
 
 ## Credits
 
