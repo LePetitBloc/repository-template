@@ -55,6 +55,11 @@ care, the MIT license is the most widely used license.
 
 For *this* project, I choose […drumroll…] the [Do What the Fuck You Want to Public License](http://www.wtfpl.net/).
 
-## SUPPORT
+## Support
 
 See the [SUPPORT](SUPPORT.md) file. (Don't forget to change default email/slack/...)
+
+## Credits
+
+- README, CONTRIBUTING and LICENSE are heavily inspired by [project-template](https://github.com/mnapoli/project-template)
+- Issue and PullRequest templates comes from [Open-Source Templates](https://www.talater.com/open-source-templates/#/)
