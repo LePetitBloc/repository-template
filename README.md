@@ -27,7 +27,7 @@ For the sake of the example here is how you can use this project template
 as a basis for your own repository:
 
 ```bash
-git clone https://github.com/vanoix/repository-template.git my-project
+git clone https://github.com/lepetitbloc/repository-template.git my-project
 cd my-project
 # Remove the git repository metadata
 rm -rf .git/
@@ -42,7 +42,7 @@ Make sure your examples work by testing them! I didn't test mine and I should fe
 
 ## Code of conduct
 
-See the [CODE OF CONDUCT](CODE_OF_CONDUCT.md) file. (Don't forget to change default email)
+See the [CODE OF CONDUCT](CODE_OF_CONDUCT.md) file.
 
 ## Contributing
 
@@ -57,14 +57,15 @@ For *this* project, I choose […drumroll…] the [Do What the Fuck You Want to 
 
 ## Support
 
-See the [SUPPORT](SUPPORT.md) file. (Don't forget to change default email/slack/...)
+See the [SUPPORT](SUPPORT.md) file.
 
 ## Templates
 
-You should review templates for issue/(pull|merge) requests for github and gitlab. Feel free to
+You should review templates for issue/(pull|merge) requests for Github and Gitlab. Feel free to
 update them and, if you work with gitlab, add others templates.
 
 ## Credits
 
 - README, CONTRIBUTING and LICENSE are heavily inspired by [project-template](https://github.com/mnapoli/project-template)
-- Issue and PullRequest templates comes from [Open-Source Templates](https://www.talater.com/open-source-templates/#/)
+- Issue and Pull Request templates comes from [Open-Source Templates](https://www.talater.com/open-source-templates/#/)
+- CODE_OF_CONDUCT come from [Contributor Covenant](https://www.contributor-covenant.org)
