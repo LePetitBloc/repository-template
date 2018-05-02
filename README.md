@@ -40,6 +40,19 @@ Easy peasy! Now you just have to code.
 
 Make sure your examples work by testing them! I didn't test mine and I should feel ashamed.
 
+## Donation
+
+If you have not already understand, we love cryptocurrency. It's possible to make a donation
+for this work at the following addresses:
+
+- Bitcoin: [14VRBrDZ47HR1pWjmAnyC5CJCXDkhLeANb](btc:14VRBrDZ47HR1pWjmAnyC5CJCXDkhLeANb?label=LePetitBloc&message=donation from)
+- Ethereum (we also love BAT, CVC, EOS and PAY): [0x1accf4c2bd6010100a2aeac36f336fb963a1716a](eth:0x1accf4c2bd6010100a2aeac36f336fb963a1716a?label=LePetitBloc&message=donation from)
+- Ethereum Classic: [0x3b33bdcc70f06dad7068594a0cd8fbfd7b203aae](etc:0x3b33bdcc70f06dad7068594a0cd8fbfd7b203aae?label=LePetitBloc&message=donation from)
+- Litecoin: [LdH6Sbq5M9p6dqG7GaRvBjoCqJ2CHnz9wr](ltc:LdH6Sbq5M9p6dqG7GaRvBjoCqJ2CHnz9wr?label=LePetitBloc&message=donation from)
+- Dash: [XuPyN4Ns12qaMKzUjffzeKrCjCL4XYwUCY](dsh:XuPyN4Ns12qaMKzUjffzeKrCjCL4XYwUCY?label=LePetitBloc&message=donation from)
+- ZCash: [t1U2e4TV6zmg6gXAByBp59NtBP2HsEvY5T5](zec:t1U2e4TV6zmg6gXAByBp59NtBP2HsEvY5T5?label=LePetitBloc&message=donation from)
+- Doge: [DKbojeYrguCL2Suh9ujmU49m4QK9DixBXL](dge:DKbojeYrguCL2Suh9ujmU49m4QK9DixBXL?label=LePetitBloc&message=donation from)
+
 ## Code of conduct
 
 See the [CODE OF CONDUCT](CODE_OF_CONDUCT.md) file.
