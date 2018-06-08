@@ -42,8 +42,7 @@ Make sure your examples work by testing them! I didn't test mine and I should fe
 
 ## Donation
 
-If you have not already understand, we love cryptocurrency. It's possible to make a donation
-for this work at the following addresses:
+We love cryptocurrencies, consider making a donation:
 
 | Currency         | Address                                    |
 | ---------------- | ------------------------------------------ |
