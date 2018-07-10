@@ -40,20 +40,6 @@ Easy peasy! Now you just have to code.
 
 Make sure your examples work by testing them! I didn't test mine and I should feel ashamed.
 
-## Donation
-
-We love cryptocurrencies, consider making a donation:
-
-| Currency         | Address                                    |
-| ---------------- | ------------------------------------------ |
-| Bitcoin          | 14VRBrDZ47HR1pWjmAnyC5CJCXDkhLeANb         |
-| Ethereum         | 0x1accf4c2bd6010100a2aeac36f336fb963a1716a |
-| Ethereum Classic | 0x3b33bdcc70f06dad7068594a0cd8fbfd7b203aae |
-| Litecoin         | LdH6Sbq5M9p6dqG7GaRvBjoCqJ2CHnz9wr         |
-| Dash             | XuPyN4Ns12qaMKzUjffzeKrCjCL4XYwUCY         |
-| ZCash            | t1U2e4TV6zmg6gXAByBp59NtBP2HsEvY5T5        |
-| Doge             | DKbojeYrguCL2Suh9ujmU49m4QK9DixBXL         |
-
 ## Code of conduct
 
 See the [CODE OF CONDUCT](CODE_OF_CONDUCT.md) file.
@@ -73,6 +59,21 @@ For *this* project, I choose […drumroll…] the [Do What the Fuck You Want to 
 
 See the [SUPPORT](SUPPORT.md) file.
 
+## Donation
+
+We love cryptocurrencies, consider making a donation:
+
+| Currency         | Address                                    |
+| ---------------- | ------------------------------------------ |
+| Bitcoin          | 14VRBrDZ47HR1pWjmAnyC5CJCXDkhLeANb         |
+| Ethereum         | 0x1accf4c2bd6010100a2aeac36f336fb963a1716a |
+| Ethereum Classic | 0x3b33bdcc70f06dad7068594a0cd8fbfd7b203aae |
+| Litecoin         | LdH6Sbq5M9p6dqG7GaRvBjoCqJ2CHnz9wr         |
+| Dash             | XuPyN4Ns12qaMKzUjffzeKrCjCL4XYwUCY         |
+| ZCash            | t1U2e4TV6zmg6gXAByBp59NtBP2HsEvY5T5        |
+| Doge             | DKbojeYrguCL2Suh9ujmU49m4QK9DixBXL         |
+
+<!--
 ## Templates
 
 You should review templates for issue/(pull|merge) requests for Github and Gitlab. Feel free to
@@ -83,3 +84,4 @@ update them and, if you work with gitlab, add others templates.
 - README, CONTRIBUTING and LICENSE are heavily inspired by [project-template](https://github.com/mnapoli/project-template)
 - Issue and Pull Request templates comes from [Open-Source Templates](https://www.talater.com/open-source-templates/#/)
 - CODE_OF_CONDUCT come from [Contributor Covenant](https://www.contributor-covenant.org)
+-->
